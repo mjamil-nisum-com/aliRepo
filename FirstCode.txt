@@ -1,1 +1,3 @@
 line1 --server
+=======
+line1 --local
