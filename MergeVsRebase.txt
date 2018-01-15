@@ -1,3 +1,0 @@
-line from local
-=======
-line from server
